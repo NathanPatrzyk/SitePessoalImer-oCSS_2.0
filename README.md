@@ -1,2 +1,2 @@
-# SitePessoalImer-oCSS_2.0
+# SitePessoalImersãoCSS_2.0
 Segunda versão do site pessoal, feito apartir do curso Imersão CSS...
